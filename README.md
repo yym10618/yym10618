@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi! Nice to see you. 👋</h1>
 
 <!--
 **yym10618/yym10618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <p>
+    <h3>Welcome to my github page!<br/>
+      I'm Yang Yong Min, I'v been studying Front-end web development.</h3>
+  </p>
+</div>
 <div>
 📫 How to reach me...
 </div>
