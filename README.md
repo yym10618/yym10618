@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 <div>
-  🌱 I'v been studing...
+  🌱 I'v been studying...
 </div>
 <br/>
 <div>
