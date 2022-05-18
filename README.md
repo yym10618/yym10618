@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyym10618&count_bg=%23BAB87C&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <br/>
-<br/>
+<hr/>
 <div>
   🌱 I studied...
 </div>
@@ -73,3 +73,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudera-F96702?style=flat-square&logo=Cloudera&logoColor=white"/>
 </div>
+<hr/>
