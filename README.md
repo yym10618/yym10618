@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=782A90"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-78BE20?style=flat-square&logo=Python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Google colab-FCC624?style=flat-square&logo=Google colab&logoColor=white"/>
 </div>
 <br/>
 <div>
