@@ -20,6 +20,7 @@ Here are some ideas to get you started:
       I'm Yang Yong Min, I'v been studying Front-end web development.</h3>
   </p>
 </div>
+</br>
 <div>
 📫 How to reach me...
 </div>
