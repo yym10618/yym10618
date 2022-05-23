@@ -82,3 +82,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Cloudera-F96702?style=flat-square&logo=Cloudera&logoColor=white"/>
 </div>
 <hr/>
+
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yym10618&layout=compact)](https://github.com/yym10618/github-readme-stats)
+
+#### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yym10618&show_icons=true&theme=vue)
