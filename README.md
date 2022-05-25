@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/yym10618@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <div>
-  <a href="https://github.com/yym10618"><img src="https://img.shields.io/badge/GitHub.com/yym10618-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/yym10618" target="_blank"><img src="https://img.shields.io/badge/GitHub.com/yym10618-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 <div>
   <a href="https://yym10618.github.io" target="_blank"><img src="https://img.shields.io/badge/yym10618.github.io-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
