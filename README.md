@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a target='_blank' href="https://github.com/yym10618" ><img src="https://img.shields.io/badge/GitHub.com/yym10618-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 <div>
-  <a target='_blank' href="https://yym10618.github.io" ><img src="https://img.shields.io/badge/yym10618.github.io-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://yym10618.github.io" target='_blank'><img src="https://img.shields.io/badge/yym10618.github.io-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
 <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyym10618&count_bg=%23BAB87C&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
